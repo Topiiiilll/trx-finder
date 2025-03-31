@@ -8,8 +8,6 @@ from rich import print
 import base64
 import sys
 import time
-import zipfile
-import requests
 import os
 import subprocess
 def keccak256(data):
